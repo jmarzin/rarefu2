@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rarefu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rarefu_jar</output-path>
+    <root id="archive" name="rarefu.jar">
+      <element id="module-output" name="rarefu" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/snakeyaml-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/itextpdf-5.5.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/itext-xtra-5.5.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-imaging-1.0-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
